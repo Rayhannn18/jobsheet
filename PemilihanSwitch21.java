@@ -13,19 +13,25 @@ public class PemilihanSwitch21 {
         System.out.print("Masukkan operator (+ - * :) : ");
         operator = input.next().charAt(0);
 
-        if (operator == '+') {
-            result = number1 + number2;
-        } else if (operator == '-') {
-            result = number1 - number2;
-        } else if (operator == '*') {
-            result = number1 * number2;
-        } else if (operator == '/') {
-            result = number1 / number2;
-        } else {
-            System.out.println("Operator yang anda masukan salah");
+        switch (operator) {
+            case '+':
+                result = number1 + number2;
+                break;
+            case '-':
+                result = number1 - number2;
+                break;
+            case '*':
+                result = number1 * number2;
+                break;
+            case '/':
+                result = number1 / number2;
+                break;
+            default:
+                System.out.println("Masukan operator yang benar !");
         }
-        input.close();
+        
 
+        input.close();
         if (operator == '-' || operator == '*' || operator == '/' || operator == '+') {
             System.out.println(number1 + operator + number2 + " = " + result);
             System.out.println(number1 + " " + operator + " " + number2 + " = " + result);
