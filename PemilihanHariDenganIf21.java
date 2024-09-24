@@ -5,7 +5,7 @@ public class PemilihanHariDenganIf21 {
         Scanner input = new Scanner(System.in);
         String dayType;
         byte dayNumber;
-        System.out.println("Masukkan angka 1 hingga 7");
+        System.out.println("Masukkan angka 1 hingga 7 ");
         System.out.print("Masukkan : ");
         dayNumber = input.nextByte();
         input.close();
