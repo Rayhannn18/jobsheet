@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
-public class PemilihanBilangan21 {
+public class PemilihanBilangan14 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("========= MENCARI ANGKA GENAP DAN GANJIL =========");
 
         System.out.print("masukkan angka :");
         int number = input.nextInt();

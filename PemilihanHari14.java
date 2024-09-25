@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class PemilihanHari21 {
+public class PemilihanHari14 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String dayName, dayType;
-        System.out.print("Pengecekan hari Marties : ");
+        System.out.print("Pengecekan hari: ");
         dayName = input.nextLine();
         input.close();
         dayType = "";

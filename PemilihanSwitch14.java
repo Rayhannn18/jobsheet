@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PemilihanSwitch21 {
+public class PemilihanSwitch14 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double number1, number2, result = 0;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PemilihanHariDenganIf21 {
+public class PemilihanHariDenganIf14 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String dayType;
