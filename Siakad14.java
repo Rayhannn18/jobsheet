@@ -6,10 +6,9 @@ public class Siakad14 {
 
         String name, nim;
         char classes;
-        byte absentNumber;
+        byte absentNumbers;
         double QuizGrade, TaskGrade, ExampGrade, LastGrade;
 
-        System.out.println("========== INPUT BIODATA MAHASISWA SIB-1E ========== \n");
         System.out.print("Masukkan Nama anda \t\t: ");
         name = input.nextLine();
         System.out.print("Masukkan NIM anda \t\t: ");
@@ -17,9 +16,8 @@ public class Siakad14 {
         System.out.print("Masukkan Kelas anda \t\t: ");
         classes = input.nextLine().charAt(0);
         System.out.print("Masukkan Nomor Absen anda \t: ");
-        absentNumber = input.nextByte();
+        absentNumbers = input.nextByte();
 
-        System.out.println("========== INPUT NILAI MAHASISWA SIB-1E ========== \n");
         System.out.print("Masukkan Nilai Kuis \t: ");
         QuizGrade = input.nextDouble();
         System.out.print("Masukkan Nilai Tugas \t: ");
@@ -28,7 +26,6 @@ public class Siakad14 {
         ExampGrade = input.nextDouble();
         input.close();
 
-        System.out.println("========== HASIL ========== \n");
 
         LastGrade = (QuizGrade + TaskGrade + ExampGrade) / 3;
         char Grade;
@@ -58,7 +55,7 @@ public class Siakad14 {
         }
 
         System.out.print("Mahasiswa dengan nama \t : " + name + " NIM : " + nim);
-        System.out.println(" Kelas : " + "1" + classes + " Absen : " + absentNumber);
+        System.out.println(" Kelas : " + "1" + classes + " Absen : " + absentNumbers);
         System.out.println("Nilai Akhir \t\t : " + LastGrade);
         System.out.println("Nilai Akhir Huruf \t : " + Grade);
         System.out.println("Kualifikasi Akhir \t : " + Kualification);
