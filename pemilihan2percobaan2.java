@@ -42,11 +42,10 @@ public class pemilihan2percobaan2 {
 
             } else {
                 System.out.println("Masukkan pilihan menu dengan benar");
-                return;
             }  
             total_bayar = harga - (harga * diskon);
             System.out.println("Total bayar setelah diskon =" + total_bayar);
-            
+
         }else if (member.equalsIgnoreCase("n")) {
             if (pilihan_menu == 1) {
                 harga = 14000;
@@ -62,7 +61,6 @@ public class pemilihan2percobaan2 {
 
             } else {
                 System.out.println("Masukkan pilihan menu dengan benar");
-                return;
         }
         System.out.println("Total Bayar = " + harga);
         } else {

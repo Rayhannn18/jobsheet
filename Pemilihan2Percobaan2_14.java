@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Pemilihan2Percobaan214 {
+public class Pemilihan2Percobaan2_14 {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -27,7 +27,7 @@ public class Pemilihan2Percobaan214 {
         }
         else if (member.equalsIgnoreCase("n")) {
             System.out.println("member tidak valid");
-            return;    
+       
         }
         
             if (pilihan_menu == 1) {
@@ -44,7 +44,6 @@ public class Pemilihan2Percobaan214 {
 
             } else {
                 System.out.println("Masukkan pilihan menu dengan benar");
-                return;
             }
             total_bayar = harga - (harga * diskon);
             System.out.println("Total bayar setelah diskon =" + total_bayar);
