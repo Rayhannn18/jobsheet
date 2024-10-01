@@ -38,6 +38,6 @@ public class PemilihanSwitch14 {
            System.out.println(number1 + operator + number2 + " = " + result);
            System.out.println(number1 + " " + operator + " " + number2 + " " + result);
 
-        
+        sc.close();
     }
 }

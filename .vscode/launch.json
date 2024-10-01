@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "pemilihan2percobaan2",
+      "request": "launch",
+      "mainClass": "pemilihan2percobaan2",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2Percobaan214",
+      "request": "launch",
+      "mainClass": "Pemilihan2Percobaan214",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
       "name": "Pemilihan2Percobaan114",
       "request": "launch",
       "mainClass": "Pemilihan2Percobaan114",
