@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SiakadFor14",
+      "request": "launch",
+      "mainClass": "SiakadFor14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2Percobaan3_14",
+      "request": "launch",
+      "mainClass": "Pemilihan2Percobaan3_14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
       "name": "Pemilihan2Percobaan2_14",
       "request": "launch",
       "mainClass": "Pemilihan2Percobaan2_14",
