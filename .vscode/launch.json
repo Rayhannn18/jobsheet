@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RataNilai14",
+      "request": "launch",
+      "mainClass": "RataNilai14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Triangle14",
+      "request": "launch",
+      "mainClass": "Triangle14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Square14",
+      "request": "launch",
+      "mainClass": "Square14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Star14",
+      "request": "launch",
+      "mainClass": "Star14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Parkir14",
+      "request": "launch",
+      "mainClass": "Parkir14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "BioskopDoWhile14",
+      "request": "launch",
+      "mainClass": "BioskopDoWhile14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "KafeDoWhile14",
+      "request": "launch",
+      "mainClass": "KafeDoWhile14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
       "name": "SiakadWhile14",
       "request": "launch",
       "mainClass": "SiakadWhile14",

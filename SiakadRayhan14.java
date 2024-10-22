@@ -70,6 +70,7 @@ public class SiakadRayhan14 {
             System.out.println("Nilai Akhir Huruf \t : " + Grade);
             System.out.println("Kualifikasi Akhir \t : " + Kualification);
     }
-        
+
+    
     
 }

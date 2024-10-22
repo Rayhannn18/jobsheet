@@ -43,5 +43,6 @@ public class SiakadWhile14 {
 
             i++;
         }
+        sc.close();
     }
 }
