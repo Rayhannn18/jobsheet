@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "UTSManajemenNilai14",
+      "request": "launch",
+      "mainClass": "UTSManajemenNilai14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Porseni14",
+      "request": "launch",
+      "mainClass": "Porseni14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Perulangan2_14",
+      "request": "launch",
+      "mainClass": "Perulangan2_14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
       "name": "RataNilai14",
       "request": "launch",
       "mainClass": "RataNilai14",
