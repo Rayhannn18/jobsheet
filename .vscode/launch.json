@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayNilai14",
+      "request": "launch",
+      "mainClass": "ArrayNilai14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
       "name": "ArrayBilangan14",
       "request": "launch",
       "mainClass": "ArrayBilangan14",
