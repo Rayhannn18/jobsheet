@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PemesananKafeTugas3",
+      "request": "launch",
+      "mainClass": "PemesananKafeTugas3",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeTugas2",
+      "request": "launch",
+      "mainClass": "KafeTugas2",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Tugas1",
+      "request": "launch",
+      "mainClass": "Tugas1",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
       "name": "SearchNilai14",
       "request": "launch",
       "mainClass": "SearchNilai14",
