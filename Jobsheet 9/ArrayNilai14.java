@@ -16,7 +16,5 @@ public class ArrayNilai14 {
                             + " Dengan nilai : "
                             + nilaiAkhir[i]);
         }
-
-
 }
 }
