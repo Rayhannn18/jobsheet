@@ -7,11 +7,16 @@ public class ArrayNilai14 {
         int [] nilaiAkhir = new int[10];
 
         for (int i = 0; i < 10; i++) {
-            System.out.print("Masukkan nilai akhir ke-"+i+" : ");
+            System.out.print("Masukkan Nilai Akhir ke-" + i + " : ");
             nilaiAkhir[i] = sc.nextInt();
         }
-        for (int i = 0; i < 10; i++){
-            System.out.println("Nilai akhir ke-"+i+" adalah "+nilaiAkhir[i]);
+        for (int i = 0; i < nilaiAkhir.length; i++) {
+            System.out
+                    .println("Mahasiswa ke-" + i + (nilaiAkhir[i] < 70 ? " Tidak lulus" : " Lulus!")
+                            + " Dengan nilai : "
+                            + nilaiAkhir[i]);
         }
+
+
 }
 }
