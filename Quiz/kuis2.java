@@ -1,3 +1,4 @@
+package Quiz;
 import java.util.Scanner;
 public class kuis2 {
     public static void main(String[] args) {

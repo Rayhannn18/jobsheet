@@ -1,3 +1,4 @@
+package UTS;
 import java.util.Scanner;
 public class UTSManajemenNilai14 {
 

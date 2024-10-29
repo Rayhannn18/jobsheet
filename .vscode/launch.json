@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayBilangan14",
+      "request": "launch",
+      "mainClass": "ArrayBilangan14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
       "name": "UTSManajemenToko14",
       "request": "launch",
       "mainClass": "UTSManajemenToko14",
