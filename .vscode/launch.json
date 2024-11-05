@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TugasJobsheet10_14",
+      "request": "launch",
+      "mainClass": "TugasJobsheet10_14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
       "name": "SIAKAD14",
       "request": "launch",
       "mainClass": "SIAKAD14",
