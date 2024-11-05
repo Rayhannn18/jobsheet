@@ -83,6 +83,7 @@ public class BioskopWithScanner14 {
                 default:
                     System.out.println("Pilihan tidak valid. Silakan coba lagi.");
             }
+            sc.close();
         }
     }
 }
