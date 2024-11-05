@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Bioskop14",
+      "request": "launch",
+      "mainClass": "Bioskop14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
       "name": "PemesananKafeTugas3",
       "request": "launch",
       "mainClass": "PemesananKafeTugas3",
