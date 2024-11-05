@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SIAKAD14",
+      "request": "launch",
+      "mainClass": "SIAKAD14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
       "name": "Numbers14",
       "request": "launch",
       "mainClass": "Numbers14",
