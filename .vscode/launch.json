@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Quiz3_14",
+      "request": "launch",
+      "mainClass": "Quiz3_14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Quiz2_14",
+      "request": "launch",
+      "mainClass": "Quiz2_14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
       "name": "Quiz1_14",
       "request": "launch",
       "mainClass": "Quiz1_14",
