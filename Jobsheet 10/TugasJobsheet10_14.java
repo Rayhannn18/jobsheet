@@ -43,6 +43,6 @@ public class TugasJobsheet10_14 {
         }
         double rataRataKeseluruhan = (double) totalSemua / (jumlahResponden * jumlahPertanyaan);
         System.out.println("\nRata-rata nilai keseluruhan: " + rataRataKeseluruhan);
+        sc.close();
 }
-
 }
