@@ -1,0 +1,430 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Uas",
+      "request": "launch",
+      "mainClass": "Uas",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "UASPrakDaspro14",
+      "request": "launch",
+      "mainClass": "UASPrakDaspro14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "problembumentari",
+      "request": "launch",
+      "mainClass": "problembumentari",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeStudyCase_modif",
+      "request": "launch",
+      "mainClass": "KafeStudyCase_modif",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "percobaan",
+      "request": "launch",
+      "mainClass": "percobaan",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeStudyCase",
+      "request": "launch",
+      "mainClass": "KafeStudyCase",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KRSManager",
+      "request": "launch",
+      "mainClass": "KRSManager",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "krscoba$SIAKAD",
+      "request": "launch",
+      "mainClass": "krscoba$SIAKAD",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "TugasFunction2_14",
+      "request": "launch",
+      "mainClass": "Jobsheet12.TugasFunction2_14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Percobaan3",
+      "request": "launch",
+      "mainClass": "Jobsheet12.Percobaan3",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Percobaan2",
+      "request": "launch",
+      "mainClass": "Jobsheet12.Percobaan2",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Rekursif14",
+      "request": "launch",
+      "mainClass": "Jobsheet12.Rekursif14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Rekursif14",
+      "request": "launch",
+      "mainClass": "Rekursif14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeIbuMariana14Modif",
+      "request": "launch",
+      "mainClass": "Jobsheet11.KafeIbuMariana14Modif",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeIbuMariana14Modif",
+      "request": "launch",
+      "mainClass": "Jobsheet13.KafeIbuMariana14Modif",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeIbuMariana14",
+      "request": "launch",
+      "mainClass": "Jobsheet13.KafeIbuMariana14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Kubus14",
+      "request": "launch",
+      "mainClass": "Jobsheet13.Kubus14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Percobaan6_14Modif",
+      "request": "launch",
+      "mainClass": "Jobsheet13.Percobaan6_14Modif",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Percobaan6_14",
+      "request": "launch",
+      "mainClass": "Jobsheet13.Percobaan6_14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "PengunjungCafe14",
+      "request": "launch",
+      "mainClass": "Jobsheet13.PengunjungCafe14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Kafe14_3",
+      "request": "launch",
+      "mainClass": "Jobsheet13.Kafe14_3",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Kafe14_2",
+      "request": "launch",
+      "mainClass": "Jobsheet13.Kafe14_2",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Kafe14",
+      "request": "launch",
+      "mainClass": "Jobsheet13.Kafe14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Kafe14",
+      "request": "launch",
+      "mainClass": "Kafe14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Quiz3_14",
+      "request": "launch",
+      "mainClass": "Quiz3_14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Quiz2_14",
+      "request": "launch",
+      "mainClass": "Quiz2_14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Quiz1_14",
+      "request": "launch",
+      "mainClass": "Quiz1_14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "TugasJobsheet10_14",
+      "request": "launch",
+      "mainClass": "TugasJobsheet10_14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "SIAKAD14",
+      "request": "launch",
+      "mainClass": "SIAKAD14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Numbers14",
+      "request": "launch",
+      "mainClass": "Numbers14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "BioskopWithScanner14",
+      "request": "launch",
+      "mainClass": "BioskopWithScanner14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Bioskop14",
+      "request": "launch",
+      "mainClass": "Bioskop14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "PemesananKafeTugas3",
+      "request": "launch",
+      "mainClass": "PemesananKafeTugas3",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeTugas2",
+      "request": "launch",
+      "mainClass": "KafeTugas2",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Tugas1",
+      "request": "launch",
+      "mainClass": "Tugas1",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "SearchNilai14",
+      "request": "launch",
+      "mainClass": "SearchNilai14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "ArrayRataNilai14",
+      "request": "launch",
+      "mainClass": "ArrayRataNilai14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "ArrayNilai14",
+      "request": "launch",
+      "mainClass": "ArrayNilai14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "ArrayBilangan14",
+      "request": "launch",
+      "mainClass": "ArrayBilangan14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "UTSManajemenToko14",
+      "request": "launch",
+      "mainClass": "UTSManajemenToko14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "UTSManajemenNilai14",
+      "request": "launch",
+      "mainClass": "UTSManajemenNilai14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Porseni14",
+      "request": "launch",
+      "mainClass": "Porseni14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Perulangan2_14",
+      "request": "launch",
+      "mainClass": "Perulangan2_14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "RataNilai14",
+      "request": "launch",
+      "mainClass": "RataNilai14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Triangle14",
+      "request": "launch",
+      "mainClass": "Triangle14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Square14",
+      "request": "launch",
+      "mainClass": "Square14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Star14",
+      "request": "launch",
+      "mainClass": "Star14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Parkir14",
+      "request": "launch",
+      "mainClass": "Parkir14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "BioskopDoWhile14",
+      "request": "launch",
+      "mainClass": "BioskopDoWhile14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "KafeDoWhile14",
+      "request": "launch",
+      "mainClass": "KafeDoWhile14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "SiakadWhile14",
+      "request": "launch",
+      "mainClass": "SiakadWhile14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "SiakadFor14",
+      "request": "launch",
+      "mainClass": "SiakadFor14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2Percobaan3_14",
+      "request": "launch",
+      "mainClass": "Pemilihan2Percobaan3_14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2Percobaan2_14",
+      "request": "launch",
+      "mainClass": "Pemilihan2Percobaan2_14",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2Percobaan314",
+      "request": "launch",
+      "mainClass": "Pemilihan2Percobaan314",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "pemilihan2percobaan2",
+      "request": "launch",
+      "mainClass": "pemilihan2percobaan2",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2Percobaan214",
+      "request": "launch",
+      "mainClass": "Pemilihan2Percobaan214",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2Percobaan114",
+      "request": "launch",
+      "mainClass": "Pemilihan2Percobaan114",
+      "projectName": "jobsheet 2.0_7744450f"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/jobsheet 2.0",
+      "program": "d:/jobsheet 2.0/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
