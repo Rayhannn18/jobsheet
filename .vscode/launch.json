@@ -3,6 +3,160 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Uas",
+      "request": "launch",
+      "mainClass": "Uas",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "UASPrakDaspro14",
+      "request": "launch",
+      "mainClass": "UASPrakDaspro14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "problembumentari",
+      "request": "launch",
+      "mainClass": "problembumentari",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeStudyCase_modif",
+      "request": "launch",
+      "mainClass": "KafeStudyCase_modif",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "percobaan",
+      "request": "launch",
+      "mainClass": "percobaan",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeStudyCase",
+      "request": "launch",
+      "mainClass": "KafeStudyCase",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KRSManager",
+      "request": "launch",
+      "mainClass": "KRSManager",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "krscoba$SIAKAD",
+      "request": "launch",
+      "mainClass": "krscoba$SIAKAD",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "TugasFunction2_14",
+      "request": "launch",
+      "mainClass": "Jobsheet12.TugasFunction2_14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Percobaan3",
+      "request": "launch",
+      "mainClass": "Jobsheet12.Percobaan3",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Percobaan2",
+      "request": "launch",
+      "mainClass": "Jobsheet12.Percobaan2",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Rekursif14",
+      "request": "launch",
+      "mainClass": "Jobsheet12.Rekursif14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Rekursif14",
+      "request": "launch",
+      "mainClass": "Rekursif14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeIbuMariana14Modif",
+      "request": "launch",
+      "mainClass": "Jobsheet11.KafeIbuMariana14Modif",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeIbuMariana14Modif",
+      "request": "launch",
+      "mainClass": "Jobsheet13.KafeIbuMariana14Modif",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "KafeIbuMariana14",
+      "request": "launch",
+      "mainClass": "Jobsheet13.KafeIbuMariana14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Kubus14",
+      "request": "launch",
+      "mainClass": "Jobsheet13.Kubus14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Percobaan6_14Modif",
+      "request": "launch",
+      "mainClass": "Jobsheet13.Percobaan6_14Modif",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Percobaan6_14",
+      "request": "launch",
+      "mainClass": "Jobsheet13.Percobaan6_14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "PengunjungCafe14",
+      "request": "launch",
+      "mainClass": "Jobsheet13.PengunjungCafe14",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Kafe14_3",
+      "request": "launch",
+      "mainClass": "Jobsheet13.Kafe14_3",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
+      "name": "Kafe14_2",
+      "request": "launch",
+      "mainClass": "Jobsheet13.Kafe14_2",
+      "projectName": "jobsheet_bec40d3b"
+    },
+    {
+      "type": "java",
       "name": "Kafe14",
       "request": "launch",
       "mainClass": "Jobsheet13.Kafe14",
